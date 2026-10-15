@@ -1,21 +1,11 @@
-# License and activation
+# Activate Full Access
 
-Viewer Mode includes opening recordings, trace inspection and A/B measurements. Full Access unlocks processing, FFT/PSD, exports and Analysis.
+[Illustrated guide](https://edrviewer.yizewu555.workers.dev/activation)
 
-**£7.99 one-time purchase · No subscription · Up to 2 Macs**
+1. Copy the license key from your Lemon Squeezy purchase email.
+2. Open License → Activate / manage license… in EDR Viewer2.17.19.
+3. Paste the key and click Activate while online.
 
-## Already have a key?
+Up to2Macs. To move to another Mac, go online and choose Deactivate this Mac on the old Mac before activating the new one. After successful activation, saved authorization works offline without a countdown; online checks resume in the background.
 
-1. Connect to the internet.
-2. Choose **License → Activate / manage license…** in EDR Viewer.
-3. Enter your license key and click **Activate**.
-
-Saved authorization permits offline use without an offline countdown. Online background checks verify continued validity; an explicit revocation disables new paid operations. Use **Deactivate this Mac** while online to release its activation slot.
-
-If a previous license is not accessible, use **Unlock saved license…**. macOS may request access during migration. Do not post your key or private recordings in a public issue.
-
-## Need a license?
-
-Visit the [Full Access information page](https://edrviewer.yizewu555.workers.dev/#full-access). Live checkout is still being prepared. The 2.17.18 app's purchase entry opens this information page.
-
-[Support](https://edrviewer.yizewu555.workers.dev/support) · [Back to overview](README.md)
+Need help? Help → Diagnostics & support… → Copy diagnostics. Review the text and [open a GitHub report](https://github.com/Yize-Wu-99/edr-viewer-releases/issues/new). Reports are public; never post keys, purchase emails or experimental data. The current build uses test licensing; live checkout is not open yet.

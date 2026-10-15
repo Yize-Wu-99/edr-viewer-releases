@@ -2,10 +2,10 @@
 <h1 align="center">EDR Viewer for Mac</h1>
 <p align="center">Electrophysiology, made simple on Mac.</p>
 
-<p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.18/EDR-Viewer-2.17.18-test-macOS-arm64.dmg"><img src="download-mac.svg" width="480" alt="Download EDR Viewer 2.17.18 for Mac"></a></p>
-<p align="center">macOS 14+ · Apple Silicon · 242 MiB · Test build · Not Apple notarized</p>
+<p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.19/EDR-Viewer-2.17.19-test-macOS-arm64.dmg"><img src="download-mac.svg" width="480" alt="Download EDR Viewer 2.17.19 for Mac"></a></p>
+<p align="center">macOS 14+ · Apple Silicon · 242.3 MiB · Test build · Not Apple notarized</p>
 
-<p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/tag/v2.17.18">Release notes & all downloads</a> · <a href="INSTALL.md">Installation help</a> · <a href="https://edrviewer.yizewu555.workers.dev/">Website</a></p>
+<p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/tag/v2.17.19">Release notes & all downloads</a> · <a href="INSTALL.md">Installation help</a> · <a href="https://edrviewer.yizewu555.workers.dev/">Website</a></p>
 
 ![EDR Viewer — synthetic demonstration recording](viewer.webp)
 
@@ -16,7 +16,7 @@
 | ![Dark Viewer with synthetic trace](https://edrviewer.yizewu555.workers.dev/assets/screenshots/viewer-dark.webp) | ![Processing demonstration](https://edrviewer.yizewu555.workers.dev/assets/screenshots/processing.webp) |
 | Open recordings, inspect traces and measure A/B regions. | Full Access adds processing, FFT/PSD, exports and Analysis. |
 
-*Screenshots show synthetic demonstration data and the existing website UI references; they are not new 2.17.18 validation results.*
+*Screenshots show synthetic demonstration data and the existing website UI references; they are not new 2.17.19 validation results.*
 
 ## Install in three steps
 
@@ -40,7 +40,13 @@ Only use Open Anyway if you trust the download. [Apple guidance](https://support
 <details>
 <summary>Source code, checksums and licenses</summary>
 
-[Matching 2.17.18 application source](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.18/EDR-Viewer-2.17.18-source.zip) · [SHA256 checksums](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.18/SHA256SUMS.txt)
+[Matching 2.17.19 application source](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.19/EDR-Viewer-2.17.19-source.zip) · [SHA256 checksums](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.19/SHA256SUMS.txt)
 
 Original QuB/GPL and third-party notices are retained. GitHub's automatic Source code archives contain this distribution page, not the corresponding application source. [Source guide](SOURCE.md).
 </details>
+
+## Help and diagnostics
+
+[Illustrated activation guide](https://edrviewer.yizewu555.workers.dev/activation) · [Report a problem](https://github.com/Yize-Wu-99/edr-viewer-releases/issues/new)
+
+Choose Help → Diagnostics & support… → Copy diagnostics. Review before posting; reports are public. Do not include license keys, purchase emails or experimental data.
