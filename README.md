@@ -1,50 +1,46 @@
 <p align="center"><img src="app-icon.png" width="88" alt="EDR Viewer app icon"></p>
-
 <h1 align="center">EDR Viewer for Mac</h1>
 <p align="center">Electrophysiology, made simple on Mac.</p>
 
-## ⬇ Download for Mac
+<p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.18/EDR-Viewer-2.17.18-test-macOS-arm64.dmg"><img src="download-mac.svg" width="480" alt="Download EDR Viewer 2.17.18 for Mac"></a></p>
+<p align="center">macOS 14+ · Apple Silicon · 242 MiB · Test build · Not Apple notarized</p>
 
-### [⬇ Download EDR Viewer 2.17.18 for Mac — DMG](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.18/EDR-Viewer-2.17.18-test-macOS-arm64.dmg)
+<p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/tag/v2.17.18">Release notes & all downloads</a> · <a href="INSTALL.md">Installation help</a> · <a href="https://edrviewer.yizewu555.workers.dev/">Website</a></p>
 
-**Apple Silicon (M1 or later) · macOS 14+ · 242 MiB · Test build · Not Apple notarized**
+![EDR Viewer — synthetic demonstration recording](viewer.webp)
 
-[Release notes and all downloads](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/tag/v2.17.18) · [Installation guide](INSTALL.md)
+## Explore your recordings
 
-[Official website](https://edrviewer.yizewu555.workers.dev/) · [Installation help](INSTALL.md) · [License & activation](ACTIVATION.md)
-
-![EDR Viewer showing a synthetic electrophysiology recording](viewer.webp)
-
-## Open. Inspect. Analyse.
-
-| Viewer Mode | Full Access |
+| Light & dark views | Processing & analysis |
 | --- | --- |
-| Open recordings and inspect traces | Signal processing and FFT/PSD |
-| A/B waveform measurements | Exports and Analysis |
-| Free to use | £7.99 one-time purchase, up to 2 Macs |
+| ![Dark Viewer with synthetic trace](https://edrviewer.yizewu555.workers.dev/assets/screenshots/viewer-dark.webp) | ![Processing demonstration](https://edrviewer.yizewu555.workers.dev/assets/screenshots/processing.webp) |
+| Open recordings, inspect traces and measure A/B regions. | Full Access adds processing, FFT/PSD, exports and Analysis. |
 
-One app. No subscription. Start in Viewer Mode and activate a license when you need Full Access. Live checkout is still being prepared.
+*Screenshots show synthetic demonstration data and the existing website UI references; they are not new 2.17.18 validation results.*
 
 ## Install in three steps
 
-1. Download the **Mac application** from the download section.
-2. Open the DMG and drag **EDR Viewer 2.17.18** to **Applications**, then eject the DMG.
-3. Open the app and start in **Viewer Mode**.
+**Open DMG → Drag to Applications → Open EDR Viewer**
 
-[Read the short installation guide](INSTALL.md)
+<details>
+<summary>See the illustrated installation guide</summary>
 
-## Questions?
+![Illustrated installation steps — not an operating-system screenshot](installation-steps.svg)
 
-- [Which file should I download?](DOWNLOAD.md)
-- [How do I activate my license?](ACTIVATION.md)
-- [What if macOS blocks the app?](INSTALL.md#opening-a-test-build)
-- [Website support](https://edrviewer.yizewu555.workers.dev/support)
+Only use Open Anyway if you trust the download. [Apple guidance](https://support.apple.com/en-gb/102445).
+</details>
+
+## Start free. Unlock more when ready.
+
+**Viewer Mode:** opening recordings, trace inspection and A/B measurements.  
+**Full Access:** processing, FFT/PSD, exports and Analysis. £7.99 one-time purchase, up to 2 Macs. Live checkout is still being prepared; this build retains test licensing configuration.
+
+[Activate an existing key](ACTIVATION.md) · [Which file should I download?](DOWNLOAD.md) · [Support](https://edrviewer.yizewu555.workers.dev/support)
 
 <details>
 <summary>Source code, checksums and licenses</summary>
 
-This repository is the public distribution page. The original QuB/GPL implementation and third-party notices are retained. Each published app must include its matching source archive and SHA256 checksums in the same release. GitHub's automatically generated “Source code” archives contain this distribution page, not necessarily the corresponding application source.
+[Matching 2.17.18 application source](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.18/EDR-Viewer-2.17.18-source.zip) · [SHA256 checksums](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.18/SHA256SUMS.txt)
 
-[Source and verification guide](SOURCE.md)
-
+Original QuB/GPL and third-party notices are retained. GitHub's automatic Source code archives contain this distribution page, not the corresponding application source. [Source guide](SOURCE.md).
 </details>
