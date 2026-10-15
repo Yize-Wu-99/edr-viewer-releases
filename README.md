@@ -5,11 +5,11 @@
 
 ## ⬇ Download for Mac
 
-### [Download & installation guide](DOWNLOAD.md)
+### [⬇ Download EDR Viewer 2.17.18 for Mac — DMG](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.18/EDR-Viewer-2.17.18-test-macOS-arm64.dmg)
 
-**Apple Silicon (M1 or later) · macOS 14 or later**
+**Apple Silicon (M1 or later) · macOS 14+ · 242 MiB · Test build · Not Apple notarized**
 
-The downloadable release is being prepared. The direct app download will appear here when it is published.
+[Release notes and all downloads](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/tag/v2.17.18) · [Installation guide](INSTALL.md)
 
 [Official website](https://edrviewer.yizewu555.workers.dev/) · [Installation help](INSTALL.md) · [License & activation](ACTIVATION.md)
 
@@ -28,7 +28,7 @@ One app. No subscription. Start in Viewer Mode and activate a license when you n
 ## Install in three steps
 
 1. Download the **Mac application** from the download section.
-2. Unzip it and move **EDR Viewer.app** to **Applications** (or drag it there if the final release uses a DMG).
+2. Open the DMG and drag **EDR Viewer 2.17.18** to **Applications**, then eject the DMG.
 3. Open the app and start in **Viewer Mode**.
 
 [Read the short installation guide](INSTALL.md)
