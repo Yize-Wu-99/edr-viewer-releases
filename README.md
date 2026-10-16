@@ -1,6 +1,6 @@
 <p align="center"><img src="app-icon.png" width="88" alt="EDR Viewer app icon"></p>
 <h1 align="center">EDR Viewer 2.17.19 for Mac</h1>
-<p align="center">Electrophysiology, made simple on Mac.</p>
+<p align="center">Open EDR, ABF and ATF electrophysiology recordings on Mac.</p>
 
 <p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.19/EDR-Viewer-2.17.19-test-macOS-arm64.dmg"><img src="download-mac.svg" width="480" alt="Download EDR Viewer 2.17.19 for Mac"></a></p>
 <p align="center">macOS 14+ · Apple Silicon · 242.3 MiB · Test build · Not Apple notarized</p>
@@ -8,6 +8,10 @@
 <p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/tag/v2.17.19">Release information</a> · <a href="INSTALL.md">Installation help</a> · <a href="https://edrviewer.yizewu555.workers.dev/">Website</a></p>
 
 ![EDR Viewer — synthetic demonstration recording](viewer.webp)
+
+## EDR, ABF, ATF — and text data
+
+Open recordings from **WinEDR and pCLAMP / Axon**. Supported imports: **EDR, ABF, ATF, TXT, CSV and TSV**. Text imports require regularly sampled numerical data; confirm columns, sampling rate and units when needed. Multi-sweep ABF files are opened one sweep at a time.
 
 ## Explore your recordings
 
