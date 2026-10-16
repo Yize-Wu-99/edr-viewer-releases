@@ -1,11 +1,11 @@
 <p align="center"><img src="app-icon.png" width="88" alt="EDR Viewer app icon"></p>
-<h1 align="center">EDR Viewer for Mac</h1>
+<h1 align="center">EDR Viewer 2.17.19 for Mac</h1>
 <p align="center">Electrophysiology, made simple on Mac.</p>
 
 <p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.19/EDR-Viewer-2.17.19-test-macOS-arm64.dmg"><img src="download-mac.svg" width="480" alt="Download EDR Viewer 2.17.19 for Mac"></a></p>
 <p align="center">macOS 14+ · Apple Silicon · 242.3 MiB · Test build · Not Apple notarized</p>
 
-<p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/tag/v2.17.19">Release notes & all downloads</a> · <a href="INSTALL.md">Installation help</a> · <a href="https://edrviewer.yizewu555.workers.dev/">Website</a></p>
+<p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/tag/v2.17.19">Release information</a> · <a href="INSTALL.md">Installation help</a> · <a href="https://edrviewer.yizewu555.workers.dev/">Website</a></p>
 
 ![EDR Viewer — synthetic demonstration recording](viewer.webp)
 
@@ -37,13 +37,6 @@ Only use Open Anyway if you trust the download. [Apple guidance](https://support
 
 [Activate an existing key](ACTIVATION.md) · [Which file should I download?](DOWNLOAD.md) · [Support](https://edrviewer.yizewu555.workers.dev/support)
 
-<details>
-<summary>Source code, checksums and licenses</summary>
-
-[Matching 2.17.19 application source](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.19/EDR-Viewer-2.17.19-source.zip) · [SHA256 checksums](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.17.19/SHA256SUMS.txt)
-
-Original QuB/GPL and third-party notices are retained. GitHub's automatic Source code archives contain this distribution page, not the corresponding application source. [Source guide](SOURCE.md).
-</details>
 
 ## Help and diagnostics
 
