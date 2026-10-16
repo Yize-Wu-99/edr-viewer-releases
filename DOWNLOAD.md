@@ -4,6 +4,8 @@
 
 **Apple Silicon (M1 or later) · macOS 14+ · 242.3 MiB · Test build · Not Apple notarized**
 
+**Supported imports: EDR · ABF · ATF · TXT · CSV · TSV.** Open WinEDR and pCLAMP / Axon recordings, or regularly sampled numerical text data.
+
 Open the DMG, drag EDR Viewer to Applications, eject the DMG, then open the installed app.
 
 Choose the **.dmg** file to install. GitHub's automatically generated “Source code” ZIP/TAR downloads contain this download repository's pages and images; they are not the Mac application.
