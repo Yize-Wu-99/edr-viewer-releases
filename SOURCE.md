@@ -1,9 +1,7 @@
-# Source and verification
+# About this download repository
 
-For each published app, download the explicitly named matching application source ZIP from the same release. GitHub's automatic Source code archives package this distribution repository; they are not a substitute for the matching app source.
+This repository contains download information, installation instructions and website images.
 
-Original QuB/GPL and third-party license notices remain in the application and corresponding source. This distribution page does not change those licenses.
+To install **EDR Viewer 2.17.19**, download the **DMG** from the [download page](DOWNLOAD.md). GitHub's automatic “Source code (zip/tar.gz)” downloads are snapshots of this repository, not the Mac application or its application source.
 
-The release includes SHA256SUMS.txt. On macOS, advanced users can compare a downloaded file's SHA256 with the listed value using `shasum -a 256 filename.zip` (or the DMG filename). A matching checksum verifies file consistency, not Apple notarization.
-
-[Back to download](DOWNLOAD.md)
+[Installation](INSTALL.md) · [Overview](README.md)
