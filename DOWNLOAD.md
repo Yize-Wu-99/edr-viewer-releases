@@ -11,3 +11,7 @@ Open the DMG, drag EDR Viewer to Applications, eject the DMG, then open the inst
 Choose the **.dmg** file to install. GitHub's automatically generated “Source code” ZIP/TAR downloads contain this download repository's pages and images; they are not the Mac application.
 
 [Installation](INSTALL.md) · [Activation guide](https://edrviewer.yizewu555.workers.dev/activation) · [Release information](https://github.com/Yize-Wu-99/edr-viewer-releases/releases/tag/v2.18) · [Overview](README.md)
+
+## Before downloading
+
+[Opening WinEDR, pCLAMP and Clampfit files on Mac](ELECTROPHYSIOLOGY_FILES_ON_MAC.md): supported workflows, EDR / ABF / ATF viewing, multi-sweep limits and free Viewer Mode.
