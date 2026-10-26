@@ -29,6 +29,18 @@ EDR Viewer is a separate application, not an official Mac version of Clampfit or
 | ATF | Axon Text Format | Check the imported signal and metadata. |
 | TXT, CSV, TSV | Numerical time-series data | Requires regularly sampled numerical data; confirm columns, sampling rate and units. |
 
+## EDR viewer for Mac: how do I open an EDR file?
+
+Download and install EDR Viewer, then open your WinEDR recording in the app. Inspect the trace and verify its sampling rate and units. Start with Viewer Mode; activation is not needed for viewing and A/B measurements.
+
+## ABF viewer for Mac: can I view pCLAMP recordings?
+
+Open the ABF recording in EDR Viewer. For multi-sweep recordings, choose the sweep you want to inspect. Confirm that the selected channel, units and sampling rate match your experiment. File-format support is not a claim of complete Clampfit analysis equivalence.
+
+## ATF viewer for Mac: can I open Axon text files?
+
+EDR Viewer imports ATF recordings as well as numerical TXT, CSV and TSV data. For general text files, use regularly sampled numerical data and confirm the selected columns, sampling rate and units during import.
+
 ## Download and installation
 
 [Download EDR Viewer for Mac](DOWNLOAD.md) · [Installation help](INSTALL.md) · [Activation](ACTIVATION.md)
