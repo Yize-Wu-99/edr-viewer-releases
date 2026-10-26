@@ -1,13 +1,23 @@
 <p align="center"><img src="app-icon.png" width="88" alt="EDR Viewer app icon"></p>
-<h1 align="center">EDR Viewer 2.18 for Mac</h1>
+<h1 align="center">EDR Viewer for Mac</h1>
 <p align="center">Open EDR, ABF and ATF electrophysiology recordings on Mac.</p>
 
 <p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/download/v2.18/EDR-Viewer-2.18-macOS-arm64.dmg"><img src="download-mac.svg" width="480" alt="Download EDR Viewer 2.18 for Mac"></a></p>
-<p align="center">macOS 14+ · Apple Silicon · 242.2 MiB · Live edition · Not Apple notarized</p>
+<p align="center">Version 2.18 · macOS 14+ · Apple Silicon · 242.2 MiB · Live edition · Not Apple notarized</p>
 
 <p align="center"><a href="https://github.com/Yize-Wu-99/edr-viewer-releases/releases/tag/v2.18">Release information</a> · <a href="INSTALL.md">Installation help</a> · <a href="https://edrviewer.yizewu555.workers.dev/">Website</a></p>
 
 ![EDR Viewer — synthetic demonstration recording](viewer.webp)
+
+## Looking for WinEDR, pCLAMP or Clampfit for Mac?
+
+**EDR Viewer for Mac** is an electrophysiology recording viewer for opening **WinEDR EDR** and **Axon / pCLAMP ABF and ATF** files on macOS. Use the free Viewer Mode to inspect traces and make A/B measurements.
+
+- **[WinEDR for Mac: open EDR recordings](ELECTROPHYSIOLOGY_FILES_ON_MAC.md#winedr-for-mac-opening-edr-recordings)**
+- **[pCLAMP for Mac: view ABF and ATF files](ELECTROPHYSIOLOGY_FILES_ON_MAC.md#pclamp-for-mac-viewing-abf-and-atf-files)**
+- **[Clampfit for Mac: compare your viewing needs](ELECTROPHYSIOLOGY_FILES_ON_MAC.md#clampfit-for-mac-choosing-a-recording-viewer)**
+
+This is a separate application, not an official Mac version of WinEDR, pCLAMP or Clampfit. It does not provide acquisition or instrument control, or promise complete Clampfit feature or numerical equivalence.
 
 ## EDR, ABF, ATF — and text data
 
